@@ -1,3 +1,5 @@
+![Python Coding Patterns Banner](public/banner.jpg)
+
 # Python Coding Patterns
 
 A collection of practical Python patterns that will make your code more maintainable, efficient, and professional. Each notebook focuses on real-world scenarios with working examples you can actually use.
